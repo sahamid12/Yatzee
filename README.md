@@ -1,0 +1,2 @@
+# Yatzee
+Simple game
